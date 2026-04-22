@@ -14,3 +14,4 @@ This project was created as a learning prototype to practice Unity gameplay syst
 
 ## Notes:
 Some assets are from Asset Store and used for educational purposes.
+The project is not fully optimized and reflects an early-stage development level.
